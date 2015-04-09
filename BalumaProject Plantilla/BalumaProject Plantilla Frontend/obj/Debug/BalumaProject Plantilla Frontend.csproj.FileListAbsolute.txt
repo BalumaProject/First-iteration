@@ -1,0 +1,4 @@
+c:\users\cyberbug\documents\visual studio 2010\Projects\BalumaProject Plantilla Frontend\BalumaProject Plantilla Frontend\bin\BalumaProject Plantilla Frontend.dll
+c:\users\cyberbug\documents\visual studio 2010\Projects\BalumaProject Plantilla Frontend\BalumaProject Plantilla Frontend\bin\BalumaProject Plantilla Frontend.pdb
+c:\users\cyberbug\documents\visual studio 2010\Projects\BalumaProject Plantilla Frontend\BalumaProject Plantilla Frontend\obj\Debug\BalumaProject Plantilla Frontend.dll
+c:\users\cyberbug\documents\visual studio 2010\Projects\BalumaProject Plantilla Frontend\BalumaProject Plantilla Frontend\obj\Debug\BalumaProject Plantilla Frontend.pdb
