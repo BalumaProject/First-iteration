@@ -606,6 +606,8 @@ h4.style{
 }
 .footer{
 	padding: 4%;
+		
+	
 }
 /* start grids_of_3 */
 .span_of_3{
@@ -763,6 +765,7 @@ h4.style{
 /* start footer_bg */
 .footer_bg{
 	background: #2e2e2e;
+
 }
 #toTop {
 	display: none;
