@@ -6,3 +6,9 @@ C:\Users\Cyberbug\Documents\Visual Studio 2010\Projects\First-iteration\BalumaPr
 C:\Users\Cyberbug\Documents\Visual Studio 2010\Projects\First-iteration\BalumaProject Plantilla\BalumaProject Plantilla Frontend\bin\BalumaProject Plantilla Frontend.pdb
 C:\Users\Cyberbug\Documents\Visual Studio 2010\Projects\First-iteration\BalumaProject Plantilla\BalumaProject Plantilla Frontend\obj\Debug\BalumaProject Plantilla Frontend.dll
 C:\Users\Cyberbug\Documents\Visual Studio 2010\Projects\First-iteration\BalumaProject Plantilla\BalumaProject Plantilla Frontend\obj\Debug\BalumaProject Plantilla Frontend.pdb
+C:\Users\manu\Documents\GitHub\First-iteration\BalumaProject Plantilla\BalumaProject Plantilla Frontend\bin\BalumaProject Plantilla Frontend.dll.config
+C:\Users\manu\Documents\GitHub\First-iteration\BalumaProject Plantilla\BalumaProject Plantilla Frontend\bin\BalumaProject Plantilla Frontend.dll
+C:\Users\manu\Documents\GitHub\First-iteration\BalumaProject Plantilla\BalumaProject Plantilla Frontend\bin\BalumaProject Plantilla Frontend.pdb
+C:\Users\manu\Documents\GitHub\First-iteration\BalumaProject Plantilla\BalumaProject Plantilla Frontend\obj\Debug\BalumaProject Plantilla Frontend.csprojResolveAssemblyReference.cache
+C:\Users\manu\Documents\GitHub\First-iteration\BalumaProject Plantilla\BalumaProject Plantilla Frontend\obj\Debug\BalumaProject Plantilla Frontend.dll
+C:\Users\manu\Documents\GitHub\First-iteration\BalumaProject Plantilla\BalumaProject Plantilla Frontend\obj\Debug\BalumaProject Plantilla Frontend.pdb
