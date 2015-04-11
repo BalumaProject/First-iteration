@@ -2,6 +2,7 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="headCli" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+<%@ Register TagPrefix="uc" TagName="Footer" Src="~/views/_footer.ascx"  %>
 <div class="main_bg">
 <div class="wrap">
 <div class="main">
@@ -72,20 +73,8 @@
 </div>
 </div>
 <!-- start footer -->
-<div class="footer_bg">
-<div class="wrap">
-<div class="footer">
-
-	<div class="f_nav1">
-		<ul>
-			<li><a href="#">Inicio/</a></li>
-			<li><a href="#">Términos y condiciones /</a></li>
-			<li><a href="#">Contáctanos</a></li>
-		</ul>
-		</div>
-	
-	<div class="clear"></div>
-</div>
-</div>
-</div>
+<form runat="server">
+    <uc:Footer id="footer"
+        runat="server" />
+</form>
 </asp:Content>
