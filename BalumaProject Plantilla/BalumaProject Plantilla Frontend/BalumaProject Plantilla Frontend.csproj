@@ -61,8 +61,10 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="admin\editar_perfil.aspx" />
     <Content Include="admin\indiceAdmin.aspx" />
     <Content Include="cliente\cliente.aspx" />
+    <Content Include="cliente\editar_cliente.aspx" />
     <Content Include="Content\css\bootstrap-theme.css" />
     <Content Include="Content\css\bootstrap-theme.min.css" />
     <Content Include="Content\css\bootstrap.css" />
@@ -105,6 +107,13 @@
     <Compile Include="admin\Administrador.Master.designer.cs">
       <DependentUpon>Administrador.Master</DependentUpon>
     </Compile>
+    <Compile Include="admin\editar_perfil.aspx.cs">
+      <DependentUpon>editar_perfil.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="admin\editar_perfil.aspx.designer.cs">
+      <DependentUpon>editar_perfil.aspx</DependentUpon>
+    </Compile>
     <Compile Include="admin\indiceAdmin.aspx.cs">
       <DependentUpon>indiceAdmin.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -125,6 +134,13 @@
     </Compile>
     <Compile Include="cliente\Cliente.Master.designer.cs">
       <DependentUpon>Cliente.Master</DependentUpon>
+    </Compile>
+    <Compile Include="cliente\editar_cliente.aspx.cs">
+      <DependentUpon>editar_cliente.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="cliente\editar_cliente.aspx.designer.cs">
+      <DependentUpon>editar_cliente.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Site1.Master.cs">
